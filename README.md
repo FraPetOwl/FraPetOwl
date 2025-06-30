@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FraPetOwl
-- 👀 I’m interested in Python, C++, Rust, AI, and Android App Development
-- 🌱 I’m currently learning Data Structures & Algorithms 
+- 👀 I’m interested in Python, C++, AI, and App Development
+- 🌱 I’m currently Java @ WGU 
 - 📫 How to reach me
   -  https://www.linkedin.com/in/pafraser/
   -  pfrase4@wgu.edu
